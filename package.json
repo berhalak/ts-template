@@ -16,7 +16,7 @@
 		"url": "git+https://github.com/berhalak/ts-template.git"
 	},
 	"author": "",
-	"license": "ISC",
+	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/berhalak/ts-template/issues"
 	},
