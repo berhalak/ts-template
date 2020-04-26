@@ -1,5 +1,5 @@
 {
-	"name": "@berhalak/ts-template",
+	"name": "template",
 	"private": false,
 	"version": "0.0.1",
 	"description": "Typescript template",
@@ -14,21 +14,21 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/berhalak/ts-template.git"
+		"url": "git+https://github.com/berhalak/template.git"
 	},
 	"author": "berhalak",
 	"keywords": [],
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/berhalak/ts-template/issues"
+		"url": "https://github.com/berhalak/template/issues"
 	},
-	"homepage": "https://github.com/berhalak/ts-template#readme",
+	"homepage": "https://github.com/berhalak/template#readme",
 	"devDependencies": {
-		"@types/jest": "^25.1.3",
-		"@types/node": "^13.7.5",
-		"jest": "^25.1.0",
-		"ts-jest": "^25.2.1",
-		"ts-node": "^8.6.2",
-		"typescript": "^3.8.2"
+		"@types/jest": "^25.2.1",
+		"@types/node": "^13.13.4",
+		"jest": "^25.4.0",
+		"ts-jest": "^25.4.0",
+		"ts-node": "^8.9.1",
+		"typescript": "^3.8.3"
 	}
 }
