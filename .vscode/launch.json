@@ -5,7 +5,7 @@
 	"version": "0.2.0",
 	"configurations": [
 		{
-			"name": "Debug run",
+			"name": "Debug main",
 			"type": "node",
 			"request": "launch",
 			"args": [
